@@ -1,0 +1,15 @@
+django>=5.1,<5.2
+djangorestframework>=3.15,<3.16
+djangorestframework-simplejwt>=5.3,<5.4
+django-cors-headers>=4.4,<4.5
+drf-spectacular>=0.27,<0.28
+psycopg2-binary>=2.9,<2.10
+python-dotenv>=1.0,<1.1
+Pillow>=10.4,<10.5
+PyPDF2>=3.0,<3.1
+pdfplumber>=0.11,<0.12
+pytesseract>=0.3,<0.4
+openai>=1.57,<2.0
+dj-database-url>=2.1,<2.2
+gunicorn>=21.2,<22.0
+
