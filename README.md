@@ -84,3 +84,13 @@ python manage.py test
 
 Deploy the `backend` container behind HTTPS (e.g., Nginx, Caddy, Fly Machines) and serve the `frontend` build via any static host (Netlify, S3+CloudFront, Render Static Site). Point `VITE_API_URL` to the live backend URL before building the frontend image or static assets. Update the README with the public URL once deployed.
 
+## Live Demo
+Access the live application here: [http://209.105.242.202:8085/](http://209.105.242.202:8085/)
+
+## Login Credentials
+Use the seeded accounts below (default password: `Password123!`):
+
+- **Staff:** `staff@company.com`  
+- **Approver Level 1:** `approver1@company.com`  
+- **Approver Level 2:** `approver2@company.com`  
+- **Finance:** `finance@company.com`
